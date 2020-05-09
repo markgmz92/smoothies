@@ -10,6 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@firebase/firestore": "^1.14.2",
+    "database-js": "^3.0.10",
+    "firebase": "^7.14.2",
+    "slugify": "^1.4.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
